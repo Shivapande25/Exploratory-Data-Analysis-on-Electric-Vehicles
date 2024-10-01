@@ -57,11 +57,11 @@ To run this project, you will need the following Python libraries:
 pip install pandas numpy matplotlib seaborn plotly
 ```
 ## Usage
-1.Clone this repository:
+1. Clone this repository:
 ```
 git clone https://github.com/your-username/electric-vehicles-eda.git
 ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 ```
 cd electric-vehicles-eda
 ```
